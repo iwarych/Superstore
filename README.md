@@ -2,7 +2,7 @@
 
 This project provides overview of sales and profit for a Superstore US orders, icluding ovierview of product's subcategories and customers growth.
 
-File [SuperstoreData](SuperstoreData.csv) contains the original raw data downloaded from one of the public data sources.
+File [SuperstoreData](SuperstoreData.csv) contains the original raw data downloaded from one of the [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
 
 
 ### My data processing pipeline is as following:
@@ -33,6 +33,9 @@ _You can run below files on PostgreSQL:_
 
 1. [Superstore - Sales and Profit summary](https://public.tableau.com/views/Superstore-SalesandProfitsummary/Superstore-SalesandProfitsummary?:language=en-US&:display_count=n&:origin=viz_share_link&:device=desktop)
 
+![image](https://github.com/iwarych/Superstore/assets/59580976/80f37e0d-16b7-4d86-8f1d-a66cb06f8fc7)
+
+
 In this dashboard you can find overview of the profit and sales - for all regions together and for each region separately.
 
 There is also sale and profit month over month (MoM) percentage change.
@@ -40,6 +43,9 @@ There is also sale and profit month over month (MoM) percentage change.
 Top left hand side panel provides trend of a new customers placing orders, regular customers with at least one order monthly as well as Year and Region filters that are applicable to all charts.
 
 2. [Superstore - Profit Gain and Loss](https://public.tableau.com/views/Superstore-ProfitGainandLoss/ProductCategory?:language=en-US&:display_count=n&:origin=viz_share_link&:device=desktop)
+
+![image](https://github.com/iwarych/Superstore/assets/59580976/f13f88f0-56fe-4637-b8e4-3c6f540dd3c1)
+
 
 This dashboard provides overview of profit and sales for product's subcategories.
 
